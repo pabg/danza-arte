@@ -1,0 +1,36 @@
+.fondo1{
+	background-image: url(../img/dance_7.jpg);
+	height: 400px;
+	color:#fff;
+	background-position: left;
+	text-align: center;
+}
+.caja1{
+	margin: 9% auto;
+	background-color: rgba(27, 21, 23, 0.6);
+	width: 50%;
+	height: 200px;
+	padding: 3%;
+}
+.caja1 h2{
+	font-size: 20px;
+	margin-bottom: 2%;
+}
+.fondo2{
+	background-image: url(../img/tile2.png);
+	text-align: center;
+}
+.fondo2 h2{
+	font-size: 25px;
+	margin-bottom: 8%;
+	border-bottom: 2px solid gray;
+	line-height: 3;
+}
+.pilar{
+	padding: 5%;
+}
+.parrafo1{
+	margin: 5%;
+	padding: 5%;
+	font-size: 41px;
+}

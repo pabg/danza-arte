@@ -1,0 +1,69 @@
+*{
+
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+header{
+	margin-top: 3%;
+}
+nav li{
+	display: inline-block;
+	margin:3%;
+}
+.titulo1{
+	font-size: 25px;
+}
+/*formulario contacto*/ 
+.box{
+	position: relative;
+	padding: 0;
+}
+.zapatillas{
+	background-image: url(../img/shoes_!.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 500px;
+}
+.zapatillas h3{
+	margin-top:2%;
+}
+.box-form{
+	padding-left: 7%;
+	font-size: 16px;
+	margin: 1% 0;
+	width: 100%;
+	height: 50px;
+	border: 1px solid rgb(83, 88, 95);
+}
+.box-mensaje{
+	padding: 2% 0 0 7%;
+	font-size: 16px;
+	margin: 1% 0;
+	width: 100%;
+	height: 200px;
+	border: 1px solid rgb(83, 88, 95);
+}
+.box-form2{
+	margin: 1% 0;
+	width: 100%;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #192951;
+	color: #fff;
+	font-size: 25px;
+}
+.icon{
+	position: absolute;
+	top: 28%;
+	left: 1%;
+	font-size: 25px;
+}
+.lapiz{
+	position: absolute;
+	top: 5%;
+	left: 1%;
+	font-size: 25px;
+}

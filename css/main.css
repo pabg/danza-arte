@@ -1,0 +1,84 @@
+.fondo1{
+	background-image: url(../img/dance_1.jpg);
+	height: 470px;
+	color:#fff;
+}  
+h2{
+	font-size: 60px;
+	margin:3% 0;
+}
+.inscribe{
+	margin-top: 2%;
+	width: 200px;
+	padding: 2%;
+	background-color: #08090e;
+	text-align: center;
+}
+
+.fondo2{
+	background-image: url(../img/textura_2.jpg);
+	text-align: center;
+}
+.texto1{
+	margin-top: 5%;
+	padding: 2%;
+	font-size: 29px;
+}
+.decoracion{
+	width: 150px;
+}
+.oferta{
+	margin: 0 auto;
+	width: 200px;
+	padding: 2%;
+	background-color: #192951;
+	text-align: center;
+	margin-bottom: 10%;
+}
+.caja1{
+	background-image: url(../img/instructor_4.jpg);
+	height: 350px;
+	border: 2px solid #192951;
+	background-position: top;
+}
+.caja2{
+	background-image: url(../img/profesor_9.jpg);
+	height: 350px;
+	border: 1px solid #192951;
+	background-position: top;
+}
+.boton{
+	position: absolute;
+	left:30%;
+	bottom: 0;
+	width: 500px;
+	padding: 2%;
+	background-color: #192951;
+	text-align: center;
+}
+.parrafo1{
+	margin: 5%;
+	padding: 5%;
+	font-size: 41px;
+}
+.fondo-azul{
+	background-color: #192951;
+	color:#fff;
+	height: 400px;
+}
+.texto{
+	font-size: 12px;
+	margin: 5% 0;
+	padding: 12% 12% 0 0;
+}
+.texto2{
+	list-style:none;
+	margin: 1% 0;
+	font-size: 12px;
+}
+.mapa{
+	margin: 5% 0;
+	padding: 12% 13% 13% 0;
+	width: 85%;
+	height: 383px;
+}
